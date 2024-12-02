@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miheer Parab</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Internship Project at Innomatics Research Labs**
 
 - 🌱 I’m currently learning **Data Visualization , AI , and Data Analysis**
 
